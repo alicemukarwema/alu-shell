@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "We can program your personal and business facebook pages to automatially Post Daily interend pictures for you" | tr -d 'cC'
+tr -d "cC"
