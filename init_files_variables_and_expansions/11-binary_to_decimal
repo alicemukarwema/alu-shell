@@ -1,3 +1,2 @@
 #!/bin/bash
-echo -e "1\n34"
-
+printf '%d\n' $BINARY
